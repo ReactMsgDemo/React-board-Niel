@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMsgDemo/React-board-Niel.git/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactMsgDemo/React-board-Niel.git/static/js/main.4bc82316.js",
+    "static/js/787.1db6b80b.chunk.js": "/ReactMsgDemo/React-board-Niel.git/static/js/787.1db6b80b.chunk.js",
+    "index.html": "/ReactMsgDemo/React-board-Niel.git/index.html",
+    "main.e6c13ad2.css.map": "/ReactMsgDemo/React-board-Niel.git/static/css/main.e6c13ad2.css.map",
+    "main.4bc82316.js.map": "/ReactMsgDemo/React-board-Niel.git/static/js/main.4bc82316.js.map",
+    "787.1db6b80b.chunk.js.map": "/ReactMsgDemo/React-board-Niel.git/static/js/787.1db6b80b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4bc82316.js"
+  ]
+}
